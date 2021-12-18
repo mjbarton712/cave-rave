@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=
+comment1.target=void\ start()
+comment10.params=g
+comment10.target=void\ paint(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=microseconds
+comment3.target=void\ pause(int)
+comment4.params=
+comment4.target=void\ slay()
+comment5.params=amtOfTimes
+comment5.target=void\ transform(int)
+comment6.params=
+comment6.target=void\ run()
+comment7.params=ke
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=ke
+comment8.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment9.params=ke
+comment9.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=11
